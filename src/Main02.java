@@ -1,8 +1,8 @@
-// Take a number as input and print the multiplication table for it.
+// 1.3 Take a number as input and print the multiplication table for it.
 
 import java.util.Scanner;
 
-public class Main2 {
+public class Main02 {
     public static void main(String[] args){
 
         Scanner in=new Scanner(System.in);

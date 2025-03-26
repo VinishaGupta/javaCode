@@ -1,8 +1,8 @@
-//Take two numbers and print the sum of both.
+// 1.2 Take two numbers and print the sum of both.
 
 import java.util.Scanner;
 
-public class Main1 {
+public class Main01 {
     public static void main(String[] args){
 
         Scanner in=new Scanner(System.in);

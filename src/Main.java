@@ -1,4 +1,4 @@
-// Input a year and find whether it is a leap year or not.
+// 1.1 Input a year and find whether it is a leap year or not.
 
 import java.util.Scanner;
 
