@@ -1,4 +1,4 @@
-// 1.4 Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
+package package1;// 1.4 Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
 
 import java.util.Scanner;
 

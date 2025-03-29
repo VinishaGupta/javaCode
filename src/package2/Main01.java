@@ -1,8 +1,8 @@
-// 2.1 Write a program to print whether a number is even or odd, also take input from the user.
+package package2;// 2.1 Write a program to print whether a number is even or odd, also take input from the user.
 
 import java.util.Scanner;
 
-public class Main05 {
+public class Main01 {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         System.out.print("Enter a number: ");

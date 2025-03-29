@@ -1,4 +1,4 @@
-// 1.5 Take 2 numbers as inputs and find their HCF and LCM.
+package package1;// 1.5 Take 2 numbers as inputs and find their HCF and LCM.
 
 import java.util.Scanner;
 

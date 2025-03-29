@@ -1,4 +1,4 @@
-// 1.2 Take two numbers and print the sum of both.
+package package1;// 1.2 Take two numbers and print the sum of both.
 
 import java.util.Scanner;
 
